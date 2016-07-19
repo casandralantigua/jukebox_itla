@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1437072858 source:d:\archivos\estructura de datos\bellonera\main.cpp
+	"Reproduccion.h"
+	<iostream>
+	<stdio.h>
+
+1437072952 d:\archivos\estructura de datos\bellonera\include\reproduccion.h
+	"Cancion.h"
+
+1437072860 d:\archivos\estructura de datos\bellonera\include\cancion.h
+
